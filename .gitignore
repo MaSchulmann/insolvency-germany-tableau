@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Tableau workbooks (large binary files)
+*.twb
+*.twbx
+*.hyper
+*.tde
+
+# Environment
+.env
+.venv/

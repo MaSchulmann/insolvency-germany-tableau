@@ -1,4 +1,364 @@
 ﻿Datum,Jahr,Monat,Monatsnummer,Groessenklasse,Insolvenzen,Forderungen_Tsd_EUR,Betroffene_Arbeitnehmer
+2020-01,2020,Januar,1,1 Arbeitnehmer,153,51669,153.0
+2020-01,2020,Januar,1,2 bis 5 Arbeitnehmer,203,99213,649.0
+2020-01,2020,Januar,1,6 bis 10 Arbeitnehmer,103,2963057,818.0
+2020-01,2020,Januar,1,11 bis 100 Arbeitnehmer,153,214728,4288.0
+2020-01,2020,Januar,1,Über 100 Arbeitnehmer,21,268928,4829.0
+2020-01,2020,Januar,1,Unbekannt oder kein Arbeitnehmer,976,432535,
+2020-02,2020,Februar,2,1 Arbeitnehmer,134,59629,134.0
+2020-02,2020,Februar,2,2 bis 5 Arbeitnehmer,201,94589,626.0
+2020-02,2020,Februar,2,6 bis 10 Arbeitnehmer,78,37541,581.0
+2020-02,2020,Februar,2,11 bis 100 Arbeitnehmer,146,231957,4285.0
+2020-02,2020,Februar,2,Über 100 Arbeitnehmer,16,141363,3228.0
+2020-02,2020,Februar,2,Unbekannt oder kein Arbeitnehmer,954,417088,
+2020-03,2020,März,3,1 Arbeitnehmer,144,19709,144.0
+2020-03,2020,März,3,2 bis 5 Arbeitnehmer,195,183118,616.0
+2020-03,2020,März,3,6 bis 10 Arbeitnehmer,80,44891,623.0
+2020-03,2020,März,3,11 bis 100 Arbeitnehmer,144,315049,4270.0
+2020-03,2020,März,3,Über 100 Arbeitnehmer,27,1254500,9912.0
+2020-03,2020,März,3,Unbekannt oder kein Arbeitnehmer,955,469733,
+2020-04,2020,April,4,1 Arbeitnehmer,124,57045,124.0
+2020-04,2020,April,4,2 bis 5 Arbeitnehmer,176,73468,574.0
+2020-04,2020,April,4,6 bis 10 Arbeitnehmer,95,51329,730.0
+2020-04,2020,April,4,11 bis 100 Arbeitnehmer,166,372374,4707.0
+2020-04,2020,April,4,Über 100 Arbeitnehmer,24,365739,5568.0
+2020-04,2020,April,4,Unbekannt oder kein Arbeitnehmer,880,2231728,
+2020-05,2020,Mai,5,1 Arbeitnehmer,125,40119,125.0
+2020-05,2020,Mai,5,2 bis 5 Arbeitnehmer,208,143808,663.0
+2020-05,2020,Mai,5,6 bis 10 Arbeitnehmer,90,35501,689.0
+2020-05,2020,Mai,5,11 bis 100 Arbeitnehmer,156,195185,4335.0
+2020-05,2020,Mai,5,Über 100 Arbeitnehmer,22,842277,10844.0
+2020-05,2020,Mai,5,Unbekannt oder kein Arbeitnehmer,903,1841759,
+2020-06,2020,Juni,6,1 Arbeitnehmer,110,143502,110.0
+2020-06,2020,Juni,6,2 bis 5 Arbeitnehmer,177,50453,596.0
+2020-06,2020,Juni,6,6 bis 10 Arbeitnehmer,85,60513,658.0
+2020-06,2020,Juni,6,11 bis 100 Arbeitnehmer,132,779193,4308.0
+2020-06,2020,Juni,6,Über 100 Arbeitnehmer,31,1089856,9497.0
+2020-06,2020,Juni,6,Unbekannt oder kein Arbeitnehmer,819,994053,
+2020-07,2020,Juli,7,1 Arbeitnehmer,139,268172,139.0
+2020-07,2020,Juli,7,2 bis 5 Arbeitnehmer,142,236081,441.0
+2020-07,2020,Juli,7,6 bis 10 Arbeitnehmer,64,21278,502.0
+2020-07,2020,Juli,7,11 bis 100 Arbeitnehmer,114,493112,3669.0
+2020-07,2020,Juli,7,Über 100 Arbeitnehmer,40,2468261,40010.0
+2020-07,2020,Juli,7,Unbekannt oder kein Arbeitnehmer,870,383293,
+2020-08,2020,August,8,1 Arbeitnehmer,92,457443,92.0
+2020-08,2020,August,8,2 bis 5 Arbeitnehmer,138,127123,413.0
+2020-08,2020,August,8,6 bis 10 Arbeitnehmer,48,34119,385.0
+2020-08,2020,August,8,11 bis 100 Arbeitnehmer,78,501173,2647.0
+2020-08,2020,August,8,Über 100 Arbeitnehmer,30,13673020,11429.0
+2020-08,2020,August,8,Unbekannt oder kein Arbeitnehmer,665,2558513,
+2020-09,2020,September,9,1 Arbeitnehmer,94,25725,94.0
+2020-09,2020,September,9,2 bis 5 Arbeitnehmer,128,55242,415.0
+2020-09,2020,September,9,6 bis 10 Arbeitnehmer,66,26709,496.0
+2020-09,2020,September,9,11 bis 100 Arbeitnehmer,112,369595,3620.0
+2020-09,2020,September,9,Über 100 Arbeitnehmer,32,602857,11030.0
+2020-09,2020,September,9,Unbekannt oder kein Arbeitnehmer,633,309036,
+2020-10,2020,Oktober,10,1 Arbeitnehmer,116,73587,116.0
+2020-10,2020,Oktober,10,2 bis 5 Arbeitnehmer,131,36770,412.0
+2020-10,2020,Oktober,10,6 bis 10 Arbeitnehmer,76,74916,598.0
+2020-10,2020,Oktober,10,11 bis 100 Arbeitnehmer,99,854332,3161.0
+2020-10,2020,Oktober,10,Über 100 Arbeitnehmer,22,689459,7007.0
+2020-10,2020,Oktober,10,Unbekannt oder kein Arbeitnehmer,641,358786,
+2020-11,2020,November,11,1 Arbeitnehmer,89,93416,89.0
+2020-11,2020,November,11,2 bis 5 Arbeitnehmer,133,41553,417.0
+2020-11,2020,November,11,6 bis 10 Arbeitnehmer,62,31719,474.0
+2020-11,2020,November,11,11 bis 100 Arbeitnehmer,94,744917,2583.0
+2020-11,2020,November,11,Über 100 Arbeitnehmer,11,196974,2646.0
+2020-11,2020,November,11,Unbekannt oder kein Arbeitnehmer,657,257139,
+2020-12,2020,Dezember,12,1 Arbeitnehmer,107,57211,107.0
+2020-12,2020,Dezember,12,2 bis 5 Arbeitnehmer,147,43420,470.0
+2020-12,2020,Dezember,12,6 bis 10 Arbeitnehmer,81,125449,618.0
+2020-12,2020,Dezember,12,11 bis 100 Arbeitnehmer,132,296614,3816.0
+2020-12,2020,Dezember,12,Über 100 Arbeitnehmer,17,314175,11315.0
+2020-12,2020,Dezember,12,Unbekannt oder kein Arbeitnehmer,735,508944,
+2021-01,2021,Januar,1,1 Arbeitnehmer,96,2644367,96.0
+2021-01,2021,Januar,1,2 bis 5 Arbeitnehmer,130,32788,417.0
+2021-01,2021,Januar,1,6 bis 10 Arbeitnehmer,63,30205,473.0
+2021-01,2021,Januar,1,11 bis 100 Arbeitnehmer,82,151488,2527.0
+2021-01,2021,Januar,1,Über 100 Arbeitnehmer,15,534804,5724.0
+2021-01,2021,Januar,1,Unbekannt oder kein Arbeitnehmer,722,316040,
+2021-02,2021,Februar,2,1 Arbeitnehmer,122,123312,122.0
+2021-02,2021,Februar,2,2 bis 5 Arbeitnehmer,161,78202,502.0
+2021-02,2021,Februar,2,6 bis 10 Arbeitnehmer,51,28788,394.0
+2021-02,2021,Februar,2,11 bis 100 Arbeitnehmer,90,187596,2709.0
+2021-02,2021,Februar,2,Über 100 Arbeitnehmer,15,311077,3269.0
+2021-02,2021,Februar,2,Unbekannt oder kein Arbeitnehmer,756,476996,
+2021-03,2021,März,3,1 Arbeitnehmer,103,98185,103.0
+2021-03,2021,März,3,2 bis 5 Arbeitnehmer,174,60116,535.0
+2021-03,2021,März,3,6 bis 10 Arbeitnehmer,77,42420,593.0
+2021-03,2021,März,3,11 bis 100 Arbeitnehmer,106,226661,3340.0
+2021-03,2021,März,3,Über 100 Arbeitnehmer,16,3679086,3632.0
+2021-03,2021,März,3,Unbekannt oder kein Arbeitnehmer,983,8066603,
+2021-04,2021,April,4,1 Arbeitnehmer,101,34760,101.0
+2021-04,2021,April,4,2 bis 5 Arbeitnehmer,152,51377,463.0
+2021-04,2021,April,4,6 bis 10 Arbeitnehmer,58,44213,450.0
+2021-04,2021,April,4,11 bis 100 Arbeitnehmer,109,307526,3465.0
+2021-04,2021,April,4,Über 100 Arbeitnehmer,9,41838,2120.0
+2021-04,2021,April,4,Unbekannt oder kein Arbeitnehmer,904,1992383,
+2021-05,2021,Mai,5,1 Arbeitnehmer,97,27270,97.0
+2021-05,2021,Mai,5,2 bis 5 Arbeitnehmer,130,36782,412.0
+2021-05,2021,Mai,5,6 bis 10 Arbeitnehmer,44,16437,346.0
+2021-05,2021,Mai,5,11 bis 100 Arbeitnehmer,72,219296,2177.0
+2021-05,2021,Mai,5,Über 100 Arbeitnehmer,4,111624,1011.0
+2021-05,2021,Mai,5,Unbekannt oder kein Arbeitnehmer,769,6617582,
+2021-06,2021,Juni,6,1 Arbeitnehmer,84,112614,84.0
+2021-06,2021,Juni,6,2 bis 5 Arbeitnehmer,134,33839,426.0
+2021-06,2021,Juni,6,6 bis 10 Arbeitnehmer,47,23866,367.0
+2021-06,2021,Juni,6,11 bis 100 Arbeitnehmer,91,186966,2348.0
+2021-06,2021,Juni,6,Über 100 Arbeitnehmer,12,137197,4424.0
+2021-06,2021,Juni,6,Unbekannt oder kein Arbeitnehmer,829,4749306,
+2021-07,2021,Juli,7,1 Arbeitnehmer,97,22826,97.0
+2021-07,2021,Juli,7,2 bis 5 Arbeitnehmer,122,40673,382.0
+2021-07,2021,Juli,7,6 bis 10 Arbeitnehmer,58,27199,461.0
+2021-07,2021,Juli,7,11 bis 100 Arbeitnehmer,70,192398,2054.0
+2021-07,2021,Juli,7,Über 100 Arbeitnehmer,8,429296,4927.0
+2021-07,2021,Juli,7,Unbekannt oder kein Arbeitnehmer,845,3866554,
+2021-08,2021,August,8,1 Arbeitnehmer,74,15468,74.0
+2021-08,2021,August,8,2 bis 5 Arbeitnehmer,112,30855,358.0
+2021-08,2021,August,8,6 bis 10 Arbeitnehmer,50,22136,374.0
+2021-08,2021,August,8,11 bis 100 Arbeitnehmer,54,64858,1341.0
+2021-08,2021,August,8,Über 100 Arbeitnehmer,4,61525,910.0
+2021-08,2021,August,8,Unbekannt oder kein Arbeitnehmer,735,8028432,
+2021-09,2021,September,9,1 Arbeitnehmer,82,10891,82.0
+2021-09,2021,September,9,2 bis 5 Arbeitnehmer,118,92788,371.0
+2021-09,2021,September,9,6 bis 10 Arbeitnehmer,55,30679,414.0
+2021-09,2021,September,9,11 bis 100 Arbeitnehmer,68,146094,1980.0
+2021-09,2021,September,9,Über 100 Arbeitnehmer,9,97694,1704.0
+2021-09,2021,September,9,Unbekannt oder kein Arbeitnehmer,713,470791,
+2021-10,2021,Oktober,10,1 Arbeitnehmer,76,23030,76.0
+2021-10,2021,Oktober,10,2 bis 5 Arbeitnehmer,124,46811,414.0
+2021-10,2021,Oktober,10,6 bis 10 Arbeitnehmer,72,110289,524.0
+2021-10,2021,Oktober,10,11 bis 100 Arbeitnehmer,79,316254,2265.0
+2021-10,2021,Oktober,10,Über 100 Arbeitnehmer,8,225166,3665.0
+2021-10,2021,Oktober,10,Unbekannt oder kein Arbeitnehmer,697,229413,
+2021-11,2021,November,11,1 Arbeitnehmer,93,23936,93.0
+2021-11,2021,November,11,2 bis 5 Arbeitnehmer,115,38905,350.0
+2021-11,2021,November,11,6 bis 10 Arbeitnehmer,58,35491,448.0
+2021-11,2021,November,11,11 bis 100 Arbeitnehmer,63,59533,1744.0
+2021-11,2021,November,11,Über 100 Arbeitnehmer,8,72588,1457.0
+2021-11,2021,November,11,Unbekannt oder kein Arbeitnehmer,757,294089,
+2021-12,2021,Dezember,12,1 Arbeitnehmer,79,354044,79.0
+2021-12,2021,Dezember,12,2 bis 5 Arbeitnehmer,141,102850,449.0
+2021-12,2021,Dezember,12,6 bis 10 Arbeitnehmer,50,27168,400.0
+2021-12,2021,Dezember,12,11 bis 100 Arbeitnehmer,93,170417,2743.0
+2021-12,2021,Dezember,12,Über 100 Arbeitnehmer,9,199719,2724.0
+2021-12,2021,Dezember,12,Unbekannt oder kein Arbeitnehmer,789,465481,
+2022-01,2022,Januar,1,1 Arbeitnehmer,93,24321,93.0
+2022-01,2022,Januar,1,2 bis 5 Arbeitnehmer,127,60216,414.0
+2022-01,2022,Januar,1,6 bis 10 Arbeitnehmer,45,56984,347.0
+2022-01,2022,Januar,1,11 bis 100 Arbeitnehmer,80,324275,2445.0
+2022-01,2022,Januar,1,Über 100 Arbeitnehmer,13,380990,3670.0
+2022-01,2022,Januar,1,Unbekannt oder kein Arbeitnehmer,699,569452,
+2022-02,2022,Februar,2,1 Arbeitnehmer,96,62399,96.0
+2022-02,2022,Februar,2,2 bis 5 Arbeitnehmer,133,48628,430.0
+2022-02,2022,Februar,2,6 bis 10 Arbeitnehmer,52,58843,416.0
+2022-02,2022,Februar,2,11 bis 100 Arbeitnehmer,87,143497,2450.0
+2022-02,2022,Februar,2,Über 100 Arbeitnehmer,8,336963,2965.0
+2022-02,2022,Februar,2,Unbekannt oder kein Arbeitnehmer,756,431872,
+2022-03,2022,März,3,1 Arbeitnehmer,119,25562,119.0
+2022-03,2022,März,3,2 bis 5 Arbeitnehmer,139,40093,454.0
+2022-03,2022,März,3,6 bis 10 Arbeitnehmer,45,41578,353.0
+2022-03,2022,März,3,11 bis 100 Arbeitnehmer,105,280852,2925.0
+2022-03,2022,März,3,Über 100 Arbeitnehmer,11,372469,3934.0
+2022-03,2022,März,3,Unbekannt oder kein Arbeitnehmer,875,604665,
+2022-04,2022,April,4,1 Arbeitnehmer,85,38769,85.0
+2022-04,2022,April,4,2 bis 5 Arbeitnehmer,142,31729,442.0
+2022-04,2022,April,4,6 bis 10 Arbeitnehmer,62,41052,484.0
+2022-04,2022,April,4,11 bis 100 Arbeitnehmer,115,566485,3265.0
+2022-04,2022,April,4,Über 100 Arbeitnehmer,11,323926,2501.0
+2022-04,2022,April,4,Unbekannt oder kein Arbeitnehmer,833,387686,
+2022-05,2022,Mai,5,1 Arbeitnehmer,121,135060,121.0
+2022-05,2022,Mai,5,2 bis 5 Arbeitnehmer,136,77284,423.0
+2022-05,2022,Mai,5,6 bis 10 Arbeitnehmer,61,28206,444.0
+2022-05,2022,Mai,5,11 bis 100 Arbeitnehmer,100,255903,2904.0
+2022-05,2022,Mai,5,Über 100 Arbeitnehmer,13,252860,3052.0
+2022-05,2022,Mai,5,Unbekannt oder kein Arbeitnehmer,811,1426461,
+2022-06,2022,Juni,6,1 Arbeitnehmer,95,32136,95.0
+2022-06,2022,Juni,6,2 bis 5 Arbeitnehmer,139,35847,451.0
+2022-06,2022,Juni,6,6 bis 10 Arbeitnehmer,60,33674,455.0
+2022-06,2022,Juni,6,11 bis 100 Arbeitnehmer,80,125968,2544.0
+2022-06,2022,Juni,6,Über 100 Arbeitnehmer,6,71186,1800.0
+2022-06,2022,Juni,6,Unbekannt oder kein Arbeitnehmer,760,456102,
+2022-07,2022,Juli,7,1 Arbeitnehmer,100,15074,100.0
+2022-07,2022,Juli,7,2 bis 5 Arbeitnehmer,139,38885,438.0
+2022-07,2022,Juli,7,6 bis 10 Arbeitnehmer,59,46576,447.0
+2022-07,2022,Juli,7,11 bis 100 Arbeitnehmer,84,117355,2318.0
+2022-07,2022,Juli,7,Über 100 Arbeitnehmer,10,74678,1534.0
+2022-07,2022,Juli,7,Unbekannt oder kein Arbeitnehmer,762,465307,
+2022-08,2022,August,8,1 Arbeitnehmer,90,58942,90.0
+2022-08,2022,August,8,2 bis 5 Arbeitnehmer,122,25164,391.0
+2022-08,2022,August,8,6 bis 10 Arbeitnehmer,58,26144,446.0
+2022-08,2022,August,8,11 bis 100 Arbeitnehmer,88,292540,2767.0
+2022-08,2022,August,8,Über 100 Arbeitnehmer,9,43798,1509.0
+2022-08,2022,August,8,Unbekannt oder kein Arbeitnehmer,780,391797,
+2022-09,2022,September,9,1 Arbeitnehmer,103,166357,103.0
+2022-09,2022,September,9,2 bis 5 Arbeitnehmer,169,59219,542.0
+2022-09,2022,September,9,6 bis 10 Arbeitnehmer,66,35817,502.0
+2022-09,2022,September,9,11 bis 100 Arbeitnehmer,109,197797,2874.0
+2022-09,2022,September,9,Über 100 Arbeitnehmer,13,168315,2932.0
+2022-09,2022,September,9,Unbekannt oder kein Arbeitnehmer,769,406977,
+2022-10,2022,Oktober,10,1 Arbeitnehmer,122,17113,122.0
+2022-10,2022,Oktober,10,2 bis 5 Arbeitnehmer,156,71123,476.0
+2022-10,2022,Oktober,10,6 bis 10 Arbeitnehmer,51,29729,398.0
+2022-10,2022,Oktober,10,11 bis 100 Arbeitnehmer,113,222319,3001.0
+2022-10,2022,Oktober,10,Über 100 Arbeitnehmer,11,182039,2326.0
+2022-10,2022,Oktober,10,Unbekannt oder kein Arbeitnehmer,792,280262,
+2022-11,2022,November,11,1 Arbeitnehmer,106,29480,106.0
+2022-11,2022,November,11,2 bis 5 Arbeitnehmer,167,73130,543.0
+2022-11,2022,November,11,6 bis 10 Arbeitnehmer,72,64285,557.0
+2022-11,2022,November,11,11 bis 100 Arbeitnehmer,125,191179,3647.0
+2022-11,2022,November,11,Über 100 Arbeitnehmer,11,485415,4445.0
+2022-11,2022,November,11,Unbekannt oder kein Arbeitnehmer,831,612429,
+2022-12,2022,Dezember,12,1 Arbeitnehmer,118,36626,118.0
+2022-12,2022,Dezember,12,2 bis 5 Arbeitnehmer,175,59552,555.0
+2022-12,2022,Dezember,12,6 bis 10 Arbeitnehmer,86,58153,671.0
+2022-12,2022,Dezember,12,11 bis 100 Arbeitnehmer,146,520399,4274.0
+2022-12,2022,Dezember,12,Über 100 Arbeitnehmer,20,248248,5188.0
+2022-12,2022,Dezember,12,Unbekannt oder kein Arbeitnehmer,845,820870,
+2023-01,2023,Januar,1,1 Arbeitnehmer,118,23849,118.0
+2023-01,2023,Januar,1,2 bis 5 Arbeitnehmer,163,41517,531.0
+2023-01,2023,Januar,1,6 bis 10 Arbeitnehmer,69,68564,530.0
+2023-01,2023,Januar,1,11 bis 100 Arbeitnehmer,101,565839,2883.0
+2023-01,2023,Januar,1,Über 100 Arbeitnehmer,15,812402,4538.0
+2023-01,2023,Januar,1,Unbekannt oder kein Arbeitnehmer,805,760791,
+2023-02,2023,Februar,2,1 Arbeitnehmer,109,17639,109.0
+2023-02,2023,Februar,2,2 bis 5 Arbeitnehmer,172,40070,567.0
+2023-02,2023,Februar,2,6 bis 10 Arbeitnehmer,103,59785,785.0
+2023-02,2023,Februar,2,11 bis 100 Arbeitnehmer,127,241030,3968.0
+2023-02,2023,Februar,2,Über 100 Arbeitnehmer,25,1996169,28397.0
+2023-02,2023,Februar,2,Unbekannt oder kein Arbeitnehmer,826,795532,
+2023-03,2023,März,3,1 Arbeitnehmer,126,49578,126.0
+2023-03,2023,März,3,2 bis 5 Arbeitnehmer,200,80860,615.0
+2023-03,2023,März,3,6 bis 10 Arbeitnehmer,97,116993,744.0
+2023-03,2023,März,3,11 bis 100 Arbeitnehmer,150,386818,4465.0
+2023-03,2023,März,3,Über 100 Arbeitnehmer,15,155764,3262.0
+2023-03,2023,März,3,Unbekannt oder kein Arbeitnehmer,896,452114,
+2023-04,2023,April,4,1 Arbeitnehmer,111,21988,111.0
+2023-04,2023,April,4,2 bis 5 Arbeitnehmer,154,59295,517.0
+2023-04,2023,April,4,6 bis 10 Arbeitnehmer,84,39257,628.0
+2023-04,2023,April,4,11 bis 100 Arbeitnehmer,206,538674,7161.0
+2023-04,2023,April,4,Über 100 Arbeitnehmer,33,148942,8866.0
+2023-04,2023,April,4,Unbekannt oder kein Arbeitnehmer,840,514791,
+2023-05,2023,Mai,5,1 Arbeitnehmer,126,26323,126.0
+2023-05,2023,Mai,5,2 bis 5 Arbeitnehmer,182,60127,573.0
+2023-05,2023,Mai,5,6 bis 10 Arbeitnehmer,106,84466,797.0
+2023-05,2023,Mai,5,11 bis 100 Arbeitnehmer,143,550820,3750.0
+2023-05,2023,Mai,5,Über 100 Arbeitnehmer,10,262341,1976.0
+2023-05,2023,Mai,5,Unbekannt oder kein Arbeitnehmer,911,3013239,
+2023-06,2023,Juni,6,1 Arbeitnehmer,152,81872,152.0
+2023-06,2023,Juni,6,2 bis 5 Arbeitnehmer,192,74145,619.0
+2023-06,2023,Juni,6,6 bis 10 Arbeitnehmer,104,48342,806.0
+2023-06,2023,Juni,6,11 bis 100 Arbeitnehmer,143,216767,4053.0
+2023-06,2023,Juni,6,Über 100 Arbeitnehmer,17,847032,11232.0
+2023-06,2023,Juni,6,Unbekannt oder kein Arbeitnehmer,940,634849,
+2023-07,2023,Juli,7,1 Arbeitnehmer,136,26516,136.0
+2023-07,2023,Juli,7,2 bis 5 Arbeitnehmer,225,421870,698.0
+2023-07,2023,Juli,7,6 bis 10 Arbeitnehmer,88,127747,660.0
+2023-07,2023,Juli,7,11 bis 100 Arbeitnehmer,168,992314,5429.0
+2023-07,2023,Juli,7,Über 100 Arbeitnehmer,20,598398,6367.0
+2023-07,2023,Juli,7,Unbekannt oder kein Arbeitnehmer,949,920076,
+2023-08,2023,August,8,1 Arbeitnehmer,141,72124,141.0
+2023-08,2023,August,8,2 bis 5 Arbeitnehmer,181,66671,585.0
+2023-08,2023,August,8,6 bis 10 Arbeitnehmer,89,61885,674.0
+2023-08,2023,August,8,11 bis 100 Arbeitnehmer,161,465474,4414.0
+2023-08,2023,August,8,Über 100 Arbeitnehmer,19,723215,6218.0
+2023-08,2023,August,8,Unbekannt oder kein Arbeitnehmer,965,451835,
+2023-09,2023,September,9,1 Arbeitnehmer,102,26497,102.0
+2023-09,2023,September,9,2 bis 5 Arbeitnehmer,206,62576,638.0
+2023-09,2023,September,9,6 bis 10 Arbeitnehmer,78,77792,601.0
+2023-09,2023,September,9,11 bis 100 Arbeitnehmer,181,372091,5519.0
+2023-09,2023,September,9,Über 100 Arbeitnehmer,30,632546,6415.0
+2023-09,2023,September,9,Unbekannt oder kein Arbeitnehmer,960,1099255,
+2023-10,2023,Oktober,10,1 Arbeitnehmer,128,29249,128.0
+2023-10,2023,Oktober,10,2 bis 5 Arbeitnehmer,197,80080,600.0
+2023-10,2023,Oktober,10,6 bis 10 Arbeitnehmer,81,37444,633.0
+2023-10,2023,Oktober,10,11 bis 100 Arbeitnehmer,190,624685,5396.0
+2023-10,2023,Oktober,10,Über 100 Arbeitnehmer,18,230505,3002.0
+2023-10,2023,Oktober,10,Unbekannt oder kein Arbeitnehmer,867,574897,
+2023-11,2023,November,11,1 Arbeitnehmer,118,33584,118.0
+2023-11,2023,November,11,2 bis 5 Arbeitnehmer,218,69406,665.0
+2023-11,2023,November,11,6 bis 10 Arbeitnehmer,90,45133,687.0
+2023-11,2023,November,11,11 bis 100 Arbeitnehmer,156,361988,4680.0
+2023-11,2023,November,11,Über 100 Arbeitnehmer,12,394496,5723.0
+2023-11,2023,November,11,Unbekannt oder kein Arbeitnehmer,919,598631,
+2023-12,2023,Dezember,12,1 Arbeitnehmer,129,41590,129.0
+2023-12,2023,Dezember,12,2 bis 5 Arbeitnehmer,196,420182,620.0
+2023-12,2023,Dezember,12,6 bis 10 Arbeitnehmer,92,483031,711.0
+2023-12,2023,Dezember,12,11 bis 100 Arbeitnehmer,180,360219,5314.0
+2023-12,2023,Dezember,12,Über 100 Arbeitnehmer,17,143947,5886.0
+2023-12,2023,Dezember,12,Unbekannt oder kein Arbeitnehmer,936,977688,
+2024-01,2024,Januar,1,1 Arbeitnehmer,126,109721,126.0
+2024-01,2024,Januar,1,2 bis 5 Arbeitnehmer,179,330533,576.0
+2024-01,2024,Januar,1,6 bis 10 Arbeitnehmer,108,60565,810.0
+2024-01,2024,Januar,1,11 bis 100 Arbeitnehmer,165,643736,4546.0
+2024-01,2024,Januar,1,Über 100 Arbeitnehmer,28,1355168,13437.0
+2024-01,2024,Januar,1,Unbekannt oder kein Arbeitnehmer,1016,1038867,
+2024-02,2024,Februar,2,1 Arbeitnehmer,135,40007,135.0
+2024-02,2024,Februar,2,2 bis 5 Arbeitnehmer,203,158947,642.0
+2024-02,2024,Februar,2,6 bis 10 Arbeitnehmer,108,81844,812.0
+2024-02,2024,Februar,2,11 bis 100 Arbeitnehmer,205,408222,6149.0
+2024-02,2024,Februar,2,Über 100 Arbeitnehmer,22,262565,8314.0
+2024-02,2024,Februar,2,Unbekannt oder kein Arbeitnehmer,1112,3127731,
+2024-03,2024,März,3,1 Arbeitnehmer,122,55739,122.0
+2024-03,2024,März,3,2 bis 5 Arbeitnehmer,191,109615,598.0
+2024-03,2024,März,3,6 bis 10 Arbeitnehmer,112,72500,856.0
+2024-03,2024,März,3,11 bis 100 Arbeitnehmer,202,439669,6004.0
+2024-03,2024,März,3,Über 100 Arbeitnehmer,14,363445,4076.0
+2024-03,2024,März,3,Unbekannt oder kein Arbeitnehmer,1161,2628761,
+2024-04,2024,April,4,1 Arbeitnehmer,144,56578,144.0
+2024-04,2024,April,4,2 bis 5 Arbeitnehmer,206,124653,654.0
+2024-04,2024,April,4,6 bis 10 Arbeitnehmer,102,108140,791.0
+2024-04,2024,April,4,11 bis 100 Arbeitnehmer,244,564626,6860.0
+2024-04,2024,April,4,Über 100 Arbeitnehmer,35,4670566,24108.0
+2024-04,2024,April,4,Unbekannt oder kein Arbeitnehmer,1175,5902546,
+2024-05,2024,Mai,5,1 Arbeitnehmer,136,144079,136.0
+2024-05,2024,Mai,5,2 bis 5 Arbeitnehmer,233,105826,771.0
+2024-05,2024,Mai,5,6 bis 10 Arbeitnehmer,109,197053,858.0
+2024-05,2024,Mai,5,11 bis 100 Arbeitnehmer,205,589631,5913.0
+2024-05,2024,Mai,5,Über 100 Arbeitnehmer,24,458686,7095.0
+2024-05,2024,Mai,5,Unbekannt oder kein Arbeitnehmer,1227,1943350,
+2024-06,2024,Juni,6,1 Arbeitnehmer,107,75517,107.0
+2024-06,2024,Juni,6,2 bis 5 Arbeitnehmer,193,62903,630.0
+2024-06,2024,Juni,6,6 bis 10 Arbeitnehmer,84,61775,659.0
+2024-06,2024,Juni,6,11 bis 100 Arbeitnehmer,136,589333,3960.0
+2024-06,2024,Juni,6,Über 100 Arbeitnehmer,13,400010,5467.0
+2024-06,2024,Juni,6,Unbekannt oder kein Arbeitnehmer,1120,5098173,
+2024-07,2024,Juli,7,1 Arbeitnehmer,142,167200,142.0
+2024-07,2024,Juli,7,2 bis 5 Arbeitnehmer,225,256784,729.0
+2024-07,2024,Juli,7,6 bis 10 Arbeitnehmer,120,191217,935.0
+2024-07,2024,Juli,7,11 bis 100 Arbeitnehmer,174,370994,5335.0
+2024-07,2024,Juli,7,Über 100 Arbeitnehmer,20,255879,4909.0
+2024-07,2024,Juli,7,Unbekannt oder kein Arbeitnehmer,1256,1959438,
+2024-08,2024,August,8,1 Arbeitnehmer,124,83088,124.0
+2024-08,2024,August,8,2 bis 5 Arbeitnehmer,211,62479,699.0
+2024-08,2024,August,8,6 bis 10 Arbeitnehmer,109,117719,821.0
+2024-08,2024,August,8,11 bis 100 Arbeitnehmer,181,350873,5050.0
+2024-08,2024,August,8,Über 100 Arbeitnehmer,18,468184,5403.0
+2024-08,2024,August,8,Unbekannt oder kein Arbeitnehmer,1121,1265254,
+2024-09,2024,September,9,1 Arbeitnehmer,122,797707,122.0
+2024-09,2024,September,9,2 bis 5 Arbeitnehmer,211,85838,657.0
+2024-09,2024,September,9,6 bis 10 Arbeitnehmer,100,102263,776.0
+2024-09,2024,September,9,11 bis 100 Arbeitnehmer,171,2032101,4842.0
+2024-09,2024,September,9,Über 100 Arbeitnehmer,23,3402451,11711.0
+2024-09,2024,September,9,Unbekannt oder kein Arbeitnehmer,1192,1232235,
+2024-10,2024,Oktober,10,1 Arbeitnehmer,158,126259,158.0
+2024-10,2024,Oktober,10,2 bis 5 Arbeitnehmer,239,108176,798.0
+2024-10,2024,Oktober,10,6 bis 10 Arbeitnehmer,142,110935,1071.0
+2024-10,2024,Oktober,10,11 bis 100 Arbeitnehmer,216,687191,5750.0
+2024-10,2024,Oktober,10,Über 100 Arbeitnehmer,17,454959,3789.0
+2024-10,2024,Oktober,10,Unbekannt oder kein Arbeitnehmer,1240,2356960,
+2024-11,2024,November,11,1 Arbeitnehmer,117,64574,117.0
+2024-11,2024,November,11,2 bis 5 Arbeitnehmer,206,336082,670.0
+2024-11,2024,November,11,6 bis 10 Arbeitnehmer,98,65514,749.0
+2024-11,2024,November,11,11 bis 100 Arbeitnehmer,164,275034,4858.0
+2024-11,2024,November,11,Über 100 Arbeitnehmer,15,245557,4610.0
+2024-11,2024,November,11,Unbekannt oder kein Arbeitnehmer,1187,1781061,
+2024-12,2024,Dezember,12,1 Arbeitnehmer,139,311392,139.0
+2024-12,2024,Dezember,12,2 bis 5 Arbeitnehmer,187,152282,584.0
+2024-12,2024,Dezember,12,6 bis 10 Arbeitnehmer,112,97717,888.0
+2024-12,2024,Dezember,12,11 bis 100 Arbeitnehmer,170,565966,4912.0
+2024-12,2024,Dezember,12,Über 100 Arbeitnehmer,30,744481,7790.0
+2024-12,2024,Dezember,12,Unbekannt oder kein Arbeitnehmer,1153,3952184,
 2025-01,2025,Januar,1,1 Arbeitnehmer,142,191539,142.0
 2025-01,2025,Januar,1,2 bis 5 Arbeitnehmer,185,120642,591.0
 2025-01,2025,Januar,1,6 bis 10 Arbeitnehmer,99,158438,771.0
